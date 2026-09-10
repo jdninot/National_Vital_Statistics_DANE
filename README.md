@@ -6,5 +6,5 @@ Data source
 
 All input files come from DANE's official releases:
 
-- Estadísticas Vitales (deaths, maternal deaths, and births), by year
-- Proyecciones de Población ("Formato ancho", 2018–2023)
+- Vital Statistics — deaths, maternal deaths, and births, by year: https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/nacimientos-y-defunciones
+- Population Projections 2018–2023: https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/proyecciones-de-poblacion 
